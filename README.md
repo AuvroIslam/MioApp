@@ -1,19 +1,36 @@
-# Mio App
+<p align="center">
+  <img src="Mio/assets/icons/app/mio-icon.jpg" width="120" />
+</p>
+
+<h1 align="center">Mio App</h1>
 
 A mobile application built with React Native and Expo that matches users based on their favorite anime and K-drama shows. Mio creates connections between users with similar entertainment preferences, allowing them to chat and form relationships around their common interests.
 
- 
-# [Promotinal Video Made by Me](https://www.facebook.com/share/v/19PjDUnmvi/)
+## Watch the Promo Video
 
-## 📥 Download Now
+<p align="center">
+  <a href="https://www.facebook.com/share/v/19PjDUnmvi/">
+    <img src="Promo/play-button.svg" width="70" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://www.facebook.com/share/v/19PjDUnmvi/">
+    <img src="Promo/MioPoster.jpg" width="600" />
+  </a>
+</p>
 
-👉 [Get Mio on Google Play Store](https://play.google.com/store/apps/details?id=com.mioapp.social&pli=1)
+## Download Now
 
+Get Mio on the [Google Play Store](https://play.google.com/store/apps/details?id=com.mioapp.social&pli=1)
 
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.mioapp.social&pli=1">
+    <img src="Promo/AvailableInPlayStoreNow.jpg" width="400" />
+  </a>
+</p>
 
-## 📱 App Preview
-
+## App Preview
 
 A quick look at the Mio App interface:
 
@@ -28,44 +45,44 @@ A quick look at the Mio App interface:
 
 
 
-## 🚀 Features
+## Features
 
-### 🔐 Authentication
+### Authentication
 - Secure login and registration using **email/password**
 - **Google Sign-In** integration
 
-### 👤 Profile Management
+### Profile Management
 - Create and customize personal profiles
 - Upload a **profile picture**
 - Manage personal info and favorite shows
 - **Delete your account** permanently
 
-### 🎯 Show Discovery & Matching
+### Show Discovery & Matching
 - Browse **trending Anime** and **K-Drama** shows
 - Add up to **10 favorite shows**
 - **Weekly cooldown** to remove shows
 - **Smart Matching Algorithm** to pair users based on shared interests
 - Match types:
-  - 🔵 **Match** – moderate common interests  
-  - 🟣 **Super Match** – high commonality
+  - **Match** – moderate common interests
+  - **Super Match** – high commonality
 - **Cooldown Mechanism**: After a certain number of searches or show removals, users must wait for a cooldown period before continuing
 
-### 💬 Real-time Chat
+### Real-time Chat
 - Chat system for matched users
 - Messages stored in **Firebase Firestore**
 - **Chats auto-archived** to Firebase Storage after inactivity (via Cloud Functions)
 - Users can **delete individual chats**
 
-### 🔒 Safety Tools
+### Safety Tools
 - **Block or unmatch** any user
 - **Report** inappropriate accounts
 
-### 🚨 Notifications
+### Notifications
 - **Real-time notifications** when a match is found
 - Built using **Firebase Cloud Messaging (FCM)**
 - Works across devices to ensure instant updates
 
-### ⚙️ App Management
+### App Management
 - **Force Update Mechanism**: When a critical app update is released, users are required to download the latest version before continuing to use the app
 
 
@@ -217,7 +234,10 @@ MIT
 
 ## Contact for More Details
 
-- 📧 Email: [oitijya2002@gmail.com](mailto:oitijya2002@gmail.com)  
-- 🔗 LinkedIn: [Oitijya Islam Auvro](https://linkedin.com/in/oitijya-islam-auvro-a252a5325)  
-- 💻 GitHub: [AuvroIslam](https://github.com/AuvroIslam)  
+- Email: [oitijya2002@gmail.com](mailto:oitijya2002@gmail.com)
+- LinkedIn: [Oitijya Islam Auvro](https://linkedin.com/in/oitijya-islam-auvro-a252a5325)
+- GitHub: [AuvroIslam](https://github.com/AuvroIslam)
 
+<p align="center">
+  <img src="Promo/ThankYouFor10k.jpg" width="400" />
+</p>
