@@ -20,7 +20,7 @@ Get Mio on the [Google Play Store](https://play.google.com/store/apps/details?id
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.mioapp.social&pli=1">
-    <img src="Promo/AvailableInPlayStoreNow.jpg" width="480" />
+    <img src="Promo/updatedPlaystore.png" width="640" />
   </a>
 </p>
 
@@ -233,5 +233,5 @@ MIT
 - GitHub: [AuvroIslam](https://github.com/AuvroIslam)
 
 <p align="center">
-  <img src="Promo/ThankYouFor10k.jpg" width="280" />
+  <img src="Promo/updated10k.png" width="480" />
 </p>
