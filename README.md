@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Mio/assets/icons/app/mio-icon.jpg" width="120" />
+  <img src="Promo/mio-icon-bordered.png" width="140" />
 </p>
 
 <h1 align="center">Mio App</h1>
@@ -10,13 +10,7 @@ A mobile application built with React Native and Expo that matches users based o
 
 <p align="center">
   <a href="https://www.facebook.com/share/v/19PjDUnmvi/">
-    <img src="Promo/play-button.svg" width="70" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.facebook.com/share/v/19PjDUnmvi/">
-    <img src="Promo/MioPoster.jpg" width="600" />
+    <img src="Promo/MioPoster.jpg" width="640" />
   </a>
 </p>
 
@@ -26,7 +20,7 @@ Get Mio on the [Google Play Store](https://play.google.com/store/apps/details?id
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.mioapp.social&pli=1">
-    <img src="Promo/AvailableInPlayStoreNow.jpg" width="400" />
+    <img src="Promo/AvailableInPlayStoreNow.jpg" width="640" />
   </a>
 </p>
 
@@ -35,12 +29,12 @@ Get Mio on the [Google Play Store](https://play.google.com/store/apps/details?id
 A quick look at the Mio App interface:
 
 <p align="center">
-  <img src="Preview/ss1.png" width="120" />
-  <img src="Preview/ss2.png" width="120" />
-  <img src="Preview/ss3.png" width="120" />
-  <img src="Preview/ss6.png" width="120" />
-  <img src="Preview/ss5.png" width="120" />
-  <img src="Preview/ss4.png" width="120" />
+  <img src="Preview/ss1.png" width="180" />
+  <img src="Preview/ss2.png" width="180" />
+  <img src="Preview/ss3.png" width="180" />
+  <img src="Preview/ss6.png" width="180" />
+  <img src="Preview/ss5.png" width="180" />
+  <img src="Preview/ss4.png" width="180" />
 </p>
 
 
@@ -239,5 +233,5 @@ MIT
 - GitHub: [AuvroIslam](https://github.com/AuvroIslam)
 
 <p align="center">
-  <img src="Promo/ThankYouFor10k.jpg" width="400" />
+  <img src="Promo/ThankYouFor10k.jpg" width="320" />
 </p>
