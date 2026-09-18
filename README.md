@@ -233,5 +233,5 @@ MIT
 - GitHub: [AuvroIslam](https://github.com/AuvroIslam)
 
 <p align="center">
-  <img src="Promo/updated10k.png" width="480" />
+  <img src="Promo/updated10k.png" width="720" />
 </p>
